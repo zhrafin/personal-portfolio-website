@@ -77,7 +77,7 @@ To use the website, simply navigate through the sections using the navigation ba
 
 ### GUI
 
-![GUI](assets/assets/Screenshot_6.png)
+<img src="assets/assets/Screenshot_6.png" alt="GUI" width="400"/>
 ![GUI](assets/assets/Screenshot_7.png)
 ![GUI](assets/assets/Screenshot_2.png)
 ![GUI](assets/assets/Screenshot_3.png)
