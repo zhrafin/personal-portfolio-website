@@ -43,25 +43,7 @@ This personal portfolio website is designed to highlight my professional achieve
 - **Google Fonts:** Used for typography (`Poppins` font).
 - **GitHub Pages:** For deployment (if applicable).
 
-## Installation
-
-To set up the project locally:
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/zhrafin/personal-portfolio-website.git
-   ```
-
-2. **Navigate to the Project Directory:**
-
-   ```bash
-   cd personal-portfolio-website
-   ```
-
-3. **Open `index.html` in Your Web Browser:**
-
-   You can use any web browser to view the portfolio.
+  You can use any web browser to view the portfolio.
 
 ## Usage
 
@@ -74,8 +56,6 @@ To use the website, simply navigate through the sections using the navigation ba
 - **Interactive Elements:** The hamburger menu provides a user-friendly navigation experience on mobile devices.
 
 ## Screenshots
-
-### GUI
 
 ### Web view
 <img src="assets/assets/Screenshot_6.png" alt="GUI Screenshot 6" width="700" />
@@ -98,9 +78,5 @@ To use the website, simply navigate through the sections using the navigation ba
 </div>
 
    <img src="assets/assets/Screenshot_7.png" alt="GUI Screenshot 7" width="400" />
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
