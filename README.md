@@ -78,7 +78,7 @@ To use the website, simply navigate through the sections using the navigation ba
 ### GUI
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="assets/assets/Screenshot_6.png" alt="GUI Screenshot 6" width="700" />
+    <img src="assets/assets/Screenshot_6.png" alt="GUI Screenshot 6" width="500" />
     <img src="assets/assets/Screenshot_7.png" alt="GUI Screenshot 7" width="400" />
 </div>
 
