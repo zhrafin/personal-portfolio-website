@@ -6,17 +6,6 @@ Here's an ultra-detailed `README.md` file for your personal portfolio website:
 
 Welcome to my personal portfolio website! This project showcases my work, skills, and experiences. It features a modern design with smooth transitions, responsive layout, and interactive elements. Below you'll find details on the project setup, features, and usage.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 
 This personal portfolio website is designed to highlight my professional achievements and skills. The site includes sections such as:
