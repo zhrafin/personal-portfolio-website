@@ -76,18 +76,22 @@ To use the website, simply navigate through the sections using the navigation ba
 ## Screenshots
 
 ### GUI
+<img src="assets/assets/Screenshot_6.png" alt="GUI Screenshot 6" width="700" />
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="assets/assets/Screenshot_6.png" alt="GUI Screenshot 6" width="500" />
-    <img src="assets/assets/Screenshot_7.png" alt="GUI Screenshot 7" width="400" />
+    <img src="assets/assets/Screenshot_2.png" alt="GUI Screenshot 6" width="500" />
+    <img src="assets/assets/Screenshot_3.png" alt="GUI Screenshot 7" width="500" />
 </div>
 
-<img src="assets/assets/Screenshot_2.png" alt="GUI" width="400"/>
-<img src="assets/assets/Screenshot_3.png" alt="GUI" width="400"/>
-<img src="assets/assets/Screenshot_4.png" alt="GUI" width="400"/>
-<img src="assets/assets/Screenshot_5.png" alt="GUI" width="400"/>
-<img src="assets/assets/Screenshot_8.png" alt="GUI" width="400"/>
-<img src="assets/assets/Screenshot_9.png" alt="GUI" width="400"/>
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="assets/assets/Screenshot_4.png" alt="GUI Screenshot 6" width="500" />
+    <img src="assets/assets/Screenshot_5.png" alt="GUI Screenshot 7" width="500" />
+</div>
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="assets/assets/Screenshot_8.png" alt="GUI Screenshot 6" width="500" />
+    <img src="assets/assets/Screenshot_9.png" alt="GUI Screenshot 7" width="500" />
+</div>
 
 
 ## Contributing
