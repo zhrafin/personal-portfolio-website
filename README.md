@@ -78,12 +78,14 @@ To use the website, simply navigate through the sections using the navigation ba
 ### GUI
 
 <img src="assets/assets/Screenshot_6.png" alt="GUI" width="400"/>
-![GUI](assets/assets/Screenshot_7.png)
-![GUI](assets/assets/Screenshot_2.png)
-![GUI](assets/assets/Screenshot_3.png)
-![GUI](assets/assets/Screenshot_5.png)
-![GUI](assets/assets/Screenshot_8.png)
-![GUI](assets/assets/Screenshot_9.png)
+<img src="assets/assets/Screenshot_7.png" alt="GUI" width="400"/>
+<img src="assets/assets/Screenshot_2.png" alt="GUI" width="400"/>
+<img src="assets/assets/Screenshot_3.png" alt="GUI" width="400"/>
+<img src="assets/assets/Screenshot_4.png" alt="GUI" width="400"/>
+<img src="assets/assets/Screenshot_5.png" alt="GUI" width="400"/>
+<img src="assets/assets/Screenshot_8.png" alt="GUI" width="400"/>
+<img src="assets/assets/Screenshot_9.png" alt="GUI" width="400"/>
+
 
 ## Contributing
 
