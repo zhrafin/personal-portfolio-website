@@ -77,11 +77,13 @@ To use the website, simply navigate through the sections using the navigation ba
 
 ### GUI
 
-![GUI](path/to/gui-image.png)
-
-### Application Overview
-
-![How the Application Works](path/to/how-application-works.png)
+![GUI](assets/assets/Screenshot_6.png)
+![GUI](assets/assets/Screenshot_7.png)
+![GUI](assets/assets/Screenshot_2.png)
+![GUI](assets/assets/Screenshot_3.png)
+![GUI](assets/assets/Screenshot_5.png)
+![GUI](assets/assets/Screenshot_8.png)
+![GUI](assets/assets/Screenshot_9.png)
 
 ## Contributing
 
