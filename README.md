@@ -50,13 +50,13 @@ To set up the project locally:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/zhrafin/html-css-js-portfolio.git
+   git clone https://github.com/zhrafin/personal-portfolio-website.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd html-css-js-portfolio
+   cd personal-portfolio-website
    ```
 
 3. **Open `index.html` in Your Web Browser:**
