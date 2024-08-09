@@ -76,6 +76,8 @@ To use the website, simply navigate through the sections using the navigation ba
 ## Screenshots
 
 ### GUI
+
+##Web view
 <img src="assets/assets/Screenshot_6.png" alt="GUI Screenshot 6" width="700" />
 
 <div style="display: flex; gap: 10px; justify-content: center;">
@@ -87,6 +89,8 @@ To use the website, simply navigate through the sections using the navigation ba
     <img src="assets/assets/Screenshot_4.png" alt="GUI Screenshot 6" width="500" />
     <img src="assets/assets/Screenshot_5.png" alt="GUI Screenshot 7" width="500" />
 </div>
+
+##Mobile View
 
 <div style="display: flex; gap: 10px; justify-content: center;">
     <img src="assets/assets/Screenshot_8.png" alt="GUI Screenshot 6" width="500" />
