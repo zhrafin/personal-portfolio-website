@@ -75,10 +75,6 @@ To use the website, simply navigate through the sections using the navigation ba
 
 ## Screenshots
 
-### Logo
-
-![Logo](path/to/logo.png)
-
 ### GUI
 
 ![GUI](path/to/gui-image.png)
