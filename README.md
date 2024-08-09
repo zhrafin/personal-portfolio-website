@@ -99,32 +99,6 @@ To use the website, simply navigate through the sections using the navigation ba
 
    <img src="assets/assets/Screenshot_7.png" alt="GUI Screenshot 7" width="400" />
 
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-1. **Fork the Repository**
-2. **Create a New Branch:**
-
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-
-3. **Make Your Changes**
-4. **Commit Your Changes:**
-
-   ```bash
-   git commit -m "Add some feature"
-   ```
-
-5. **Push to the Branch:**
-
-   ```bash
-   git push origin feature/your-feature
-   ```
-
-6. **Open a Pull Request**
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
