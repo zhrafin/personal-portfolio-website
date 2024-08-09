@@ -1,5 +1,3 @@
-Here's an ultra-detailed `README.md` file for your personal portfolio website:
-
 ---
 
 # Personal Portfolio Website
