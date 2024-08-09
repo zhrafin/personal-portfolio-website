@@ -206,6 +206,21 @@ section {
     gap: 1rem;
 }
 
+#dynamic-text {
+    font-weight: bold;
+    border-right: 2px solid black;
+    padding-right: 5px;
+    animation: blink-caret 0.7s step-end infinite;
+}
+
+/* Caret blinking effect */
+@keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+}
+
+
+
 /*Icons*/
 
 .icon {
