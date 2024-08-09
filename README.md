@@ -97,7 +97,7 @@ To use the website, simply navigate through the sections using the navigation ba
     <img src="assets/assets/Screenshot_9.png" alt="GUI Screenshot 7" width="400" />
 </div>
 
-   <img src="assets/assets/Screenshot_7.png" alt="GUI Screenshot 7" width="500" />
+   <img src="assets/assets/Screenshot_7.png" alt="GUI Screenshot 7" width="400" />
 
 ## Contributing
 
