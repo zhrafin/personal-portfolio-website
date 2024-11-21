@@ -59,7 +59,7 @@ a:hover {
 }
 
 .logo {
-    font-size: 2rem; /* Increased font size for logo */
+    font-size: 2rem;
 }
 
 .logo:hover {
@@ -442,17 +442,17 @@ footer p{
     text-align: center;
 }
 
-/* Projects Grid for All Projects Page */
+
 .projects-grid {
     display: flex;
-    flex-wrap: wrap; /* Allows projects to wrap to the next line */
-    gap: 2rem; /* Space between projects */
-    justify-content: center; /* Center projects horizontally */
+    flex-wrap: wrap; 
+    gap: 2rem;
+    justify-content: center;
 }
 
 .details-container-projects {
-    flex: 1; /* Three projects per row (33% each) */
-    max-width: calc(100%); /* Prevents projects from stretching */
+    flex: 1; 
+    max-width: calc(100%); 
     box-sizing: border-box;
     background: white;
     border-radius: 2rem;
@@ -466,7 +466,7 @@ footer p{
 
 
 .project-img {
-    width: 100%; /* Images adjust to container width */
+    width: 100%; 
     height: auto;
     border-radius: 2rem;
 }
@@ -476,17 +476,17 @@ footer p{
     margin-top: 1rem;
 }
 
-/* Responsive Adjustments */
+
 @media screen and (max-width: 900px) {
     .details-container {
-        flex: 1 1 calc(50% - 2rem); /* Two projects per row */
+        flex: 1 1 calc(50% - 2rem); 
         max-width: calc(50% - 2rem);
     }
 }
 
 @media screen and (max-width: 600px) {
     .details-container {
-        flex: 1 1 100%; /* One project per row */
+        flex: 1 1 100%; 
         max-width: 100%;
     }
 }
@@ -534,7 +534,7 @@ header button {
     height: 10vh;
     background: white;
     border-top: 1px solid rgb(200, 200, 200);
-    margin-top: 2rem; /* Add space above the footer */
+    margin-top: 2rem;
 }
 
 .footer-content {
@@ -546,8 +546,7 @@ header button {
     padding: 0.5rem 1rem;
 }
 
-/* Additional adjustment for projects section */
 #all-projects {
-    margin-bottom: 2rem; /* Add space below the projects section */
+    margin-bottom: 2rem; 
 }
 
