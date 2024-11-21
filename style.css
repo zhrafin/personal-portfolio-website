@@ -442,83 +442,112 @@ footer p{
     text-align: center;
 }
 
-/* Slider Container */
-.slider-container {
-    position: relative;
-    width: 100%;
-    overflow: hidden; /* Ensure only visible items appear */
+/* Projects Grid for All Projects Page */
+.projects-grid {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-wrap: wrap; /* Allows projects to wrap to the next line */
+    gap: 2rem; /* Space between projects */
+    justify-content: center; /* Center projects horizontally */
 }
 
-.slider {
-    display: flex;
-    gap: 2rem; /* Adds space between projects */
-    transition: transform 0.5s ease-in-out;
-    width: 100%; /* Ensure full slider width */
-}
-
-/* Project Container */
-.project {
-    flex: 0 0 calc(30% - 1rem); /* Adjusted size for smaller projects */
-    max-width: calc(30% - 1rem); /* Consistent size */
+.details-container-projects {
+    flex: 1; /* Three projects per row (33% each) */
+    max-width: calc(100%); /* Prevents projects from stretching */
+    box-sizing: border-box;
     background: white;
+    border-radius: 2rem;
+    border: rgb(53, 53, 53) 0.1rem solid;
+    border-color: rgb(163, 163, 163);
     text-align: center;
-    border-radius: 0.75rem;
-    padding: 0.75rem;
-    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
 }
 
-/* Project Image */
+
+
+
 .project-img {
-    width: 100%;
+    width: 100%; /* Images adjust to container width */
     height: auto;
-    border-radius: 0.75rem;
+    border-radius: 2rem;
 }
 
-/* Slider Arrows */
-.slider-arrow {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: black;
-    color: white;
-    border: none;
-    border-radius: 50%;
-    width: 3rem;
-    height: 3rem;
-    font-size: 1.5rem;
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 10;
+.project-title {
+    text-align: center;
+    margin-top: 1rem;
 }
 
-.slider-arrow:hover {
-    background: grey;
-}
-
-.prev-arrow {
-    left: 1rem;
-}
-
-.next-arrow {
-    right: 1rem;
-}
-
-/* Responsive Sizes */
-@media screen and (max-width: 1200px) {
-    .project {
-        flex: 0 0 calc(45% - 1rem); /* Two projects per row */
-        max-width: calc(45% - 1rem);
+/* Responsive Adjustments */
+@media screen and (max-width: 900px) {
+    .details-container {
+        flex: 1 1 calc(50% - 2rem); /* Two projects per row */
+        max-width: calc(50% - 2rem);
     }
 }
 
 @media screen and (max-width: 600px) {
-    .project {
-        flex: 0 0 calc(100% - 1rem); /* One project per row */
-        max-width: calc(100% - 1rem);
+    .details-container {
+        flex: 1 1 100%; /* One project per row */
+        max-width: 100%;
     }
 }
+
+/* Header Styling */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: white;
+    border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+.header-left, .header-right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.header-right {
+    justify-content: flex-end;
+}
+
+.header-center {
+    flex: 1;
+    text-align: center;
+}
+
+header .logo {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+header button {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+/* Footer Styling */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background: white;
+    border-top: 1px solid rgb(200, 200, 200);
+    margin-top: 2rem; /* Add space above the footer */
+}
+
+.footer-content {
+    text-align: center;
+}
+
+.footer .btn {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+/* Additional adjustment for projects section */
+#all-projects {
+    margin-bottom: 2rem; /* Add space below the projects section */
+}
+
